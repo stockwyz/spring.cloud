@@ -9,6 +9,7 @@
   <modules>
     <module>spring-boot</module>
     <module>spring-eureka</module>
+    <module>spring-eureka-slave</module>
     <module>spring-eureka-provider</module>
     <module>spring-eureka-consumer</module>
   </modules>
